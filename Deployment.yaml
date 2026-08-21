@@ -17,7 +17,7 @@ spec:
     app: hotstar
   spec:
    containers:
-    - name: Hotsar
+    - name: hotstar
       image: rajeshpalei/hotstar:latest
       ports:
        - containerPort: 8080
